@@ -3,6 +3,6 @@ Enable middle-lower income people in India to sell goods online. To reduce frict
 
 ## Current Focus 
 **People Database** </br>
-**Logistics Map & Routes** </br>
+**Logistics Mapping** </br>
 
 
