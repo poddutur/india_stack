@@ -7,4 +7,6 @@ dependencies:
 - pandas
 - jupyter
 - beautifulsoup4
+- pip:
+  - urllib3
 
