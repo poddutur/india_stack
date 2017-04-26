@@ -2,7 +2,7 @@
 Enable middle-lower income people in India to sell goods online. To reduce frictions B2C and Peer-Peer transactions. 
 
 ## Current Focus 
-** People Database ** </br>
-** Logistics ** </br>
+**People Database** </br>
+**Logistics** </br>
 
 
